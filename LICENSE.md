@@ -1,4 +1,4 @@
-
+VyprVPN high-speed Plugin: IKEv2-support & multi-protocol-support offers the most advanced VyprVPN plugin, with IKEv2-support and multi-protocol-support. Ideal for users who value
 
 
 
